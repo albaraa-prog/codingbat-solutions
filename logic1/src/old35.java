@@ -1,0 +1,2 @@
+public class old35 {
+}
