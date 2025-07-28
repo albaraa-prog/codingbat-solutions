@@ -11,5 +11,5 @@ public class withoutX {
         if (start > end) return "";
 
         return str.substring(start, end);
-
+    }
 }
