@@ -3,3 +3,5 @@ public class firstLast6 {
         return (nums[0] == 6 || nums[nums.length - 1] == 6);
     }
 }
+
+
