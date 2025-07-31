@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/warmup-1/Warmup-1.iml" filepath="$PROJECT_DIR$/warmup-1/Warmup-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-1/array-1.iml" filepath="$PROJECT_DIR$/array-1/array-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-3/array-3.iml" filepath="$PROJECT_DIR$/array-3/array-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codingbat-solutions.iml" filepath="$PROJECT_DIR$/.idea/codingbat-solutions.iml" />
       <module fileurl="file://$PROJECT_DIR$/functional-1/functional-1.iml" filepath="$PROJECT_DIR$/functional-1/functional-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/functional-2/functional-2.iml" filepath="$PROJECT_DIR$/functional-2/functional-2.iml" />
@@ -12,7 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/map-1/map-1.iml" filepath="$PROJECT_DIR$/map-1/map-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-2/map-2.iml" filepath="$PROJECT_DIR$/map-2/map-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/string-2/string-2.iml" filepath="$PROJECT_DIR$/string-2/string-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/string3-countYZ/string3-countYZ.iml" filepath="$PROJECT_DIR$/string3-countYZ/string3-countYZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-3/string-3.iml" filepath="$PROJECT_DIR$/string-3/string-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/warmup-2/warmup-2.iml" filepath="$PROJECT_DIR$/warmup-2/warmup-2.iml" />
     </modules>
   </component>
