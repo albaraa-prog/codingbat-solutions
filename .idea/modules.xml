@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/logic-2/logic-2.iml" filepath="$PROJECT_DIR$/logic-2/logic-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-1/map-1.iml" filepath="$PROJECT_DIR$/map-1/map-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-2/map-2.iml" filepath="$PROJECT_DIR$/map-2/map-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-2/string-2.iml" filepath="$PROJECT_DIR$/string-2/string-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/warmup-2/warmup-2.iml" filepath="$PROJECT_DIR$/warmup-2/warmup-2.iml" />
     </modules>
   </component>
