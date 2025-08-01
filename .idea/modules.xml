@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/warmup-1/Warmup-1.iml" filepath="$PROJECT_DIR$/warmup-1/Warmup-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-1/array-1.iml" filepath="$PROJECT_DIR$/array-1/array-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-2/array-2.iml" filepath="$PROJECT_DIR$/array-2/array-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-3/array-3.iml" filepath="$PROJECT_DIR$/array-3/array-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codingbat-solutions.iml" filepath="$PROJECT_DIR$/.idea/codingbat-solutions.iml" />
       <module fileurl="file://$PROJECT_DIR$/functional-1/functional-1.iml" filepath="$PROJECT_DIR$/functional-1/functional-1.iml" />
